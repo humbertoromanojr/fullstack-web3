@@ -20,14 +20,14 @@
 
 ### Libraries
 
-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Learn once, write anywhere. Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+- <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.
   <br /><br />
 
-- [React Native](https://reactnative.dev/)
+- [Next](https://nextjs.org/docs/app/getting-started/installation)
 
-- [React Navigation](https://reactnavigation.org/docs/getting-started#installation)
-  - [React Navigation Native Stack](https://reactnavigation.org/docs/hello-react-navigation)
-  - [React Navigation Bottom Tab Navigator](https://reactnavigation.org/docs/upgrading-from-5.x/#bottom-tab-navigator)
+- [Tailwindcss](https://tailwindcss.com)
+
+- [Shadcn](https://ui.shadcn.com/docs/installation)
 
 ## Demonstration
 
