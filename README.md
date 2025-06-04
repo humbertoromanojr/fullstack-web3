@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1sTTrUZA_j8o1HzsxcAlOgcKyk8fUx9N6" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1xWcDK44QwrfxFbPvMYaDzCV_19nkRZgg" alt="" width="100%" border="0" />
 <br>
 
 TODO LIST - FullStack Web 3.0
@@ -58,6 +58,15 @@ Run application <br />
 ##
 
 ## Install Backend
+
+##
+
+## Sources
+
+- https://www.youtube.com/live/hLXv16NbYMc
+- https://www.youtube.com/watch?v=mp09qdwIKWE
+
+##
 
 ## License
 
