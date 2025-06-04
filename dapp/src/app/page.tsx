@@ -1,6 +1,7 @@
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import { WalletIcon } from "lucide-react";
+
+import { Button } from "@/components/ui/button";
+import { StatusCard } from "@/components/common/statusCard";
 
 export default function Home() {
   return (
@@ -15,6 +16,12 @@ export default function Home() {
           <WalletIcon />
           <span>Connect Wallet</span>
         </Button>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
+        <StatusCard />
+        <StatusCard />
+        <StatusCard />
+        <StatusCard />
       </div>
     </div>
   );
