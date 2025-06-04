@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1u-J5lvj7EH76_gp7eUKwQrM7fR3w0Si2" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1no-XfeRjwguz9wyyPM_dQsnYbD3VO2gy" alt="" width="100%" border="0" />
 <br>
 
-:metal::metal::metal: Headbanger Forever :metal: :metal: :metal:
+TODO LIST - FullStack Web 3.0
 
 </h1>
 
@@ -10,17 +10,17 @@
 
 ## Shields
 
-![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=next&message=FrameWork&color=blue&style=for-the-badge&logo=NEXT)
 
-![Badge](https://img.shields.io/github/issues/humbertoromanojr/headbanger-forever?logo=visual-studio-code&style=plastic&logo=appveyor)
-![Badge](https://img.shields.io/github/forks/humbertoromanojr/headbanger-forever)
-![Badge](https://img.shields.io/github/stars/humbertoromanojr/headbanger-forever)
-![Badge](https://img.shields.io/github/license/humbertoromanojr/headbanger-forever)
-![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fheadbanger-forever)
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/fullstack-web3?logo=visual-studio-code&style=plastic&logo=appveyor)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/fullstack-web3)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/fullstack-web3)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/fullstack-web3)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Ffullstack-web3)
 
 ### Libraries
 
-- <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.
+- <img src="https://img.shields.io/badge/Next-0082C9?style=for-the-badge&logo=Next&logoColor=white" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.
   <br /><br />
 
 - [Next](https://nextjs.org/docs/app/getting-started/installation)
@@ -29,30 +29,35 @@
 
 - [Shadcn](https://ui.shadcn.com/docs/installation)
 
+- [Lucide](https://lucide.dev/guide/packages/lucide-react)
+
 ## Demonstration
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=" alt="" width="100%" border="0" />
 </div>
 
-## Project Dynamics
+## Install Frontend
 
-## Install
-
-Install React Native CLI <br />
-`npx @react-native-community/cli init NewProject` <br />
+Install Next JS <br />
+`npx create-next-app@latest` <br />
 
 Clone project to repository:<br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" />
-git clone `https://humbertoromanojr@bitbucket.org/humbertoromanojr/headbanger-forever.git`
+git clone `https://github.com/humbertoromanojr/fullstack-web3`
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `headbanger-forever` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `fullstack-web3` folder <br />
 
 Install node_modules <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
 
 Run application <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npx start`
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm run dev` and `http://localhost:3000`
+<br /><br />
+
+##
+
+## Install Backend
 
 ## License
 
