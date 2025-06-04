@@ -39,14 +39,13 @@ TODO LIST - FullStack Web 3.0
 
 ## Install Frontend
 
-Install Next JS <br />
-`npx create-next-app@latest` <br />
+<br />
 
 Clone project to repository:<br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" />
 git clone `https://github.com/humbertoromanojr/fullstack-web3`
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `fullstack-web3` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `fullstack-web3/dapp` folder <br />
 
 Install node_modules <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
@@ -58,6 +57,10 @@ Run application <br />
 ##
 
 ## Install Backend
+
+<br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `fullstack-web3/dapp` folder <br />
 
 ##
 
@@ -85,6 +88,8 @@ GitLab: gitlab.com/humbertoromanojr <br />
 <br />
 
 Made with <img src="https://drive.google.com/uc?export=view&id=1bb7UVQdQc1QpCIGqaI2bh4YdAn6Ihah-" alt="" width="22" border="0" /> and lots of animation by :guitar: Humberto Jr :guitar:
+
+🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘
 
 ##
 
