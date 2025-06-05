@@ -1,25 +1,19 @@
-import {
-  Card,
-  CardAction,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import { Card, CardContent, CardHeader } from "@/components/ui/card";
 
-export function StatusCard() {
+interface StatusCardProps {
+  title: string;
+  value: number;
+}
+
+export function StatusCard({ title, value }: StatusCardProps) {
   return (
-    <div className="flex flex-col gap-2">
-      <Card>
-        <CardHeader>
-          <CardTitle>Card Title</CardTitle>
-          <CardDescription>Card Description</CardDescription>
-          <CardAction>Card Action</CardAction>
-        </CardHeader>
-        <CardContent>Card Content</CardContent>
-        <CardFooter>Card Footer</CardFooter>
-      </Card>
-    </div>
+    <Card>
+      <CardHeader>
+        <h1 className="font-bold">{title}</h1>
+      </CardHeader>
+      <CardContent>
+        <h2>{value}</h2>
+      </CardContent>
+    </Card>
   );
 }
