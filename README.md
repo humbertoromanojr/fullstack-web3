@@ -62,7 +62,7 @@ Run application <br />
 
 <br />
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder Foundry `fullstack-web3/backend` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder `fullstack-web3/backend` folder <br />
 
 Install node_modules <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
@@ -72,11 +72,11 @@ Run application <br />
 
 ##
 
-## Install Smart Contract
+## Smart Contract
 
 <br />
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder Foundry `fullstack-web3/todoStake` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder `fullstack-web3/todoStake` folder <br />
 
 ## Sources
 
