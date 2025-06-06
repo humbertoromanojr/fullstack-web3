@@ -31,7 +31,9 @@ TODO LIST - FullStack Web 3.0
 
 - [Lucide](https://lucide.dev/guide/packages/lucide-react)
 
-## Demonstration
+- [Foundry](https://getfoundry.sh)
+
+## Demonstrations
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=" alt="" width="100%" border="0" />
@@ -60,13 +62,29 @@ Run application <br />
 
 <br />
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `fullstack-web3/dapp` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder Foundry `fullstack-web3/backend` folder <br />
+
+Install node_modules <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
+
+Run application <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm run dev` and `http://localhost:3003`
 
 ##
 
+## Install Smart Contract
+
+<br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder Foundry `fullstack-web3/todoStake` folder <br />
+
 ## Sources
 
-- https://www.youtube.com/live/hLXv16NbYMc
+- https://www.youtube.com/live/hLXv16NbYMc <-- lesson 01
+- https://www.youtube.com/watch?v=DL2djFXbmGA <-- lesson 02
+
+> Create gif with Gimp
+
 - https://www.youtube.com/watch?v=mp09qdwIKWE
 
 ##
