@@ -33,6 +33,8 @@ TODO LIST - FullStack Web 3.0
 
 - [Foundry](https://getfoundry.sh)
 
+- [Viem](https://viem.sh)
+
 ## Demonstrations
 
 <div align="center">
@@ -76,7 +78,25 @@ Run application <br />
 
 <br />
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder `fullstack-web3/todoStake` folder <br />
+- Download foundry installer Foundryup <br />
+  `curl -L https://foundry.paradigm.xyz | bash`
+  <br />
+- Install forge, cast, anvil, chisel<br />
+  `foundryup`<br />
+- Install the latest nightly release<br />
+  `foundryup -i nightly`<br />
+
+<br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder `fullstack-web3` <br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Create Smart Contract `forge init todoStake` <br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to folder `fullstack-web3/todoStake` <br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Compile `forge build` <br />
+
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Deploy `forge script ./script/TaskManager.s.sol --rpc-url http://127.0.0.1:8545 --broadcast` <br />
 
 ## Sources
 
